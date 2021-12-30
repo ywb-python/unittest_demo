@@ -1,0 +1,21 @@
+-
+  name: 史记
+  author: 司马迁
+  detail:
+    classify: 历史
+    time: 西汉
+    type: 纪传体
+-
+  name: 三国志
+  author: 陈寿
+  detail:
+    classify: 历史
+    time: 西晋
+    type: 纪传体
+-
+  name: 红楼梦
+  author: 曹雪芹
+  detail:
+    classify: 小说
+    time: 清代
+    type: 文学
